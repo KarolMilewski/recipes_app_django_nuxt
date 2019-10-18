@@ -1,1 +1,1 @@
-# recipes_app_django_nuxt
+# recipes_app_django_nuxt :)
